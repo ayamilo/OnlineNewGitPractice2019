@@ -4,5 +4,9 @@ Tesla
 BMW 3
 BMW X6
 Mercedes
+<<<<<<< HEAD
 Lincoln MKS
 Honda civic
+Lexus
+Suburu
+
